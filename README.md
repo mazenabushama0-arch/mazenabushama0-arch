@@ -3,6 +3,8 @@
 **Senior Data & Merchandise Analyst** based in Cairo, Egypt.
 I turn messy retail and operational data into dashboards, forecasts, and decisions that move stock and sales.
 
+🌐 **Portfolio:** [YOUR-PORTFOLIO-URL](https://YOUR-PORTFOLIO-URL)
+
 ## What I do
 
 - Build KPI-driven **Power BI** dashboards and automated Excel reporting
@@ -21,13 +23,14 @@ I turn messy retail and operational data into dashboards, forecasts, and decisio
 
 ## Featured projects
 
-### 🏬 Automated Multi-Branch Retail Allocation & Optimization System
-Business logic and DAX data models for a tool that rebalances inventory across retail branches, with Power BI views for branch priority ranking, holding costs, and distribution efficiency.
-`Power BI` `DAX` `Power Query` `Excel`
+| Project | What it is | Tools |
+|---|---|---|
+| [**Retail Performance Dashboard**](https://github.com/mazenabushama0-arch/Retail-Sales-Performance-Dashboard-) | Multi-page report: sales, daily trends, inventory, forecasting, store comparison, financials, purchase orders | Power BI, DAX |
+| [**UK Train Rides Analysis**](https://github.com/mazenabushama0-arch/UK-Train-Rides-PowerBI-Project) | 7-page report on ticket sales, customer behavior, delays, and refunds | Power BI, DAX |
+| [**HR Employee Survey Responses**](https://github.com/mazenabushama0-arch/HR-Employee-Survey-Responses) | Survey completion and sentiment by department, role, and question | Power BI, DAX |
+| [**Food Mart Retail Analysis**](https://github.com/mazenabushama0-arch/Food-Mart-Retail) | Power Pivot data model with DAX, PivotTables, and slicers for sales, profit, products, and customers | Excel, DAX |
 
-### 🛒 E-Commerce & Retail Sales Analytics Dashboard
-Extracted, cleaned, and modeled retail POS transactions with SQL and Power Query. KPI dashboards cover margin contribution, category turnover, and regional sales trends.
-`SQL` `Power BI` `Power Query`
+More case studies on my [portfolio](https://YOUR-PORTFOLIO-URL).
 
 ## Experience snapshot
 
@@ -44,5 +47,6 @@ Extracted, cleaned, and modeled retail POS transactions with SQL and Power Query
 
 ## Let's connect
 
+- 🌐 [Portfolio](https://YOUR-PORTFOLIO-URL)
 - 💼 [LinkedIn](https://linkedin.com/in/mazen-abushama-934246398)
 - 📧 mazen.mohsen202@gmail.com
