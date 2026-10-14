@@ -3,7 +3,7 @@
 **Senior Data & Merchandise Analyst** based in Cairo, Egypt.
 I turn messy retail and operational data into dashboards, forecasts, and decisions that move stock and sales.
 
-🌐 **Portfolio:** [YOUR-PORTFOLIO-URL](https://YOUR-PORTFOLIO-URL)
+🌐 **Portfolio:** [My-PORTFOLIO](https://mazenabushama0-arch.github.io/Portfolio/)
 
 ## What I do
 
