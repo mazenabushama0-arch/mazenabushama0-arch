@@ -25,12 +25,13 @@ I turn messy retail and operational data into dashboards, forecasts, and decisio
 
 | Project | What it is | Tools |
 |---|---|---|
-| [**Retail Performance Dashboard**](https://github.com/mazenabushama0-arch/Retail-Sales-Performance-Dashboard-) | Multi-page report: sales, daily trends, inventory, forecasting, store comparison, financials, purchase orders | Power BI, DAX |
+| [**Retail Performance Analytics**](https://github.com/mazenabushama0-arch/retail-performance-dashboard-powerbi-excel) | Multi-page Power BI report (sales, daily trends, inventory, forecasting, store comparison, financials, purchase orders) plus an Excel dashboard on a Power Pivot data model | Power BI, Excel, Power Pivot, DAX, Power Query |
+| [**Sales vs Budget Performance Dashboard**](https://github.com/mazenabushama0-arch/Sales-vs-Budget-Performance-Dashboard-Power-BI-) | 4-page report tracking 2016 sales against budget, with variance diagnostics by category and region and a forecast into 2017 | Power BI, DAX |
 | [**UK Train Rides Analysis**](https://github.com/mazenabushama0-arch/UK-Train-Rides-PowerBI-Project) | 7-page report on ticket sales, customer behavior, delays, and refunds | Power BI, DAX |
 | [**HR Employee Survey Responses**](https://github.com/mazenabushama0-arch/HR-Employee-Survey-Responses) | Survey completion and sentiment by department, role, and question | Power BI, DAX |
 | [**Food Mart Retail Analysis**](https://github.com/mazenabushama0-arch/Food-Mart-Retail) | Power Pivot data model with DAX, PivotTables, and slicers for sales, profit, products, and customers | Excel, DAX |
 
-More case studies on my [portfolio](https://YOUR-PORTFOLIO-URL).
+More case studies on my [portfolio](https://mazenabushama0-arch.github.io/Portfolio/).
 
 ## Experience snapshot
 
@@ -47,6 +48,6 @@ More case studies on my [portfolio](https://YOUR-PORTFOLIO-URL).
 
 ## Let's connect
 
-- 🌐 [Portfolio](https://YOUR-PORTFOLIO-URL)
+- 🌐 [Portfolio](https://mazenabushama0-arch.github.io/Portfolio/)
 - 💼 [LinkedIn](https://linkedin.com/in/mazen-abushama-934246398)
 - 📧 mazen.mohsen202@gmail.com
